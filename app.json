@@ -3,6 +3,16 @@
     "name": "fb-auth",
     "slug": "fb-auth",
     "version": "1.0.0",
+    "plugins": [
+      [
+        "react-native-fbsdk-next",
+        {
+          "appID": "257931427080761",
+          "clientToken": "a646190f42a82f72243934819ab6954a",
+          "displayName": "teste-lib"
+        }
+      ]
+    ],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +31,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.plfmoura.fbauth"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "51093c81-4dc2-41af-b0b2-94cbdaa12bf6"
+      }
     }
   }
 }
