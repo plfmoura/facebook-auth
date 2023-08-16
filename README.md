@@ -2,7 +2,7 @@
 ## fbsdk-next + Firebase + Expo
 #### (ignore this simple front-end)
 
-<image src="./assets/images/user-login.jpg" width="100" >
+<image src="./assets/images/user-login.jpg" width="200" > <image src="./assets/images/user-authenticated.jpg" width="200" > <image src="./assets/images/user-logged.jpg" width="200" >
 
 ### To run this project you need to install EXPO CLI and run:
 
