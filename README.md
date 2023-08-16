@@ -1,4 +1,3 @@
-# facebook-auth
 ## fbsdk-next + Firebase + Expo
 #### (ignore this simple front-end)
 
